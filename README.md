@@ -3,6 +3,14 @@
 For the [CIMPA research school on Arithmetic, coding and
 cryptography](https://www.rnta.eu/Algiers2026/), April 5-16, 2026
 
+## Bibliography
+
+- Dan Boneh and Victor Shoup, [_A Graduate Course in Applied Cryptography_](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_5.pdf), v0.5, 2020.
+- Steven D Galbraith, [_Mathematics of Public Key Cryptography_](https://www.math.auckland.ac.nz/~sgal018/crypto-book/main.pdf). v2.0, 2018.
+- Luca De Feo and Marc Houben, _Mathematics of Isogeny Based Cryptography_
+  * [v1, 2017](https://arxiv.org/abs/1711.04062),
+  * [v3, in progress](https://github.com/defeo/MathematicsOfIBC/blob/popayan-temp/poly.pdf).
+
 ## Use SageMath
 
 Install SageMath by following the [instrucions
